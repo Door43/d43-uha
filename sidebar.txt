@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[uha:home|Door43 (uha)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-uha|d43-uha repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-uha/archive/master.zip|d43-uha.zip]]
+
+**Recent Changes**
+{{changes>ns = uha}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/uha|Ethnologue data]]
+
